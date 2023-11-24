@@ -1,4 +1,4 @@
-const DEFAULT_DURATION = 3;
+const DEFAULT_DURATION = 15;
 
 const tick = new Audio("assets/tick2.wav");
 const alarm = new Audio("assets/alarm2.wav");
